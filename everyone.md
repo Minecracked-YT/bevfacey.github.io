@@ -9,4 +9,19 @@ Day 1 - micro:bit programming
 
 ---
 
-Day 2 - Impact of Computing: Utility, Security, and Privacy
+## Impact of Computing Topics:
+
+1. Utility, Security, and Privacy
+1. Artificial Intelligence: Inequality, Job Loss, and Uniquely Human Abilities
+1. Freedoms, Rights, and Responsibilities
+1. Social Media: Engagement and the Attention Economy
+1. Misinformation and Disinformation: Filter Bubbles, Polarization, and the Death of Discourse
+1. Targetted Advertisting and User Tracking
+1. Artificial Intelligence and Machine Learning: Errors, Bias, and Automated Discrimination
+1. Intellectual Property: Copyright and Trademarks, Creative Commons, Open x, Public Domain
+1. Net Neutrality, Equitable Access, and the Digital Divide (locally and internationally)
+1. Cybercrime, Cyberbullying, and Anonymity
+1. Artificial Intelligence and Machine Learning: Potentials and Pitfalls, Success Parameters and Grey Goo
+1. Genetics: CRISPR, Discrimination, Targetted Therapies, Predictive Medicine, Bioweapons
+1. Blockchain and Crypto: Potential, Solutions, and Impacts (environmental, social, political, etc.)
+1. Environmental Issues: Large and Small Scale Effects and Possible Solutions
