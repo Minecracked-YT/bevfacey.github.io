@@ -1,5 +1,9 @@
 # Bev Facey Computers
 
+[Everyone](everyone.md)
+
+---
+
 [Computing Science 10](cs10.md)
 
 [Computer Works 10](it10.md)
