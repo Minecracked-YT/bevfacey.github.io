@@ -6,4 +6,20 @@
 
 [Robotics 10](r10.md)
 
-[bev.facey.rocks](http://bev.facey.rocks) or [bevfacey.github.io](http://bevfacey.github.io)
+[Computing Science 20](cs20.md)
+
+[Computer Works 20](it20.md)
+
+[Robotics 20](r20.md)
+
+[Computing Science 30](cs30.md)
+
+[Computer Works 30](it30.md)
+
+[Robotics 30](r30.md)
+
+[AP Computer Science Principles](apcsp.md)
+
+[AP Computer Science A](apsca.md)
+
+*[bev.facey.rocks](http://bev.facey.rocks) or [bevfacey.github.io](http://bevfacey.github.io)*
