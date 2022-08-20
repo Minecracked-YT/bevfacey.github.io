@@ -10,6 +10,18 @@
 
 ---
 
+## Computer Setup
+* Your laptop computer will be assigned to you for the semester, but may not be taken home except with explicit permission.
+    * Use tape to label the lid with your name and period number.
+    * Remove any Chrome profiles from former students.
+    * Always check that you are using the correct power adaptor.
+    * You may install programs or other operating systems if you prefer. Laptops will likely be wiped at the end of the semester.
+    * At the end of every class period, ensure that your work has been backed up online (e.g. Google Drive, Microsoft OneDrive, GitHub) in case of local file loss.
+* You may also choose to connect and use additional monitors.
+* IT (CompWorks) students must set up a desktop computer with two monitors.
+
+---
+
 ## Knowledge and Skills
 1. Policies and Procedures
 1. Web Browsers, Brightspace, Google Drive
