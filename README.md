@@ -6,7 +6,7 @@
 
 [Computing Science 10](cs10.md)
 
-[Computer Works 10](it10.md)
+[Information Technology (Computer Works)](it10.md)
 
 [Robotics 10](r10.md)
 
@@ -14,7 +14,7 @@
 
 [Computing Science 20](cs20.md)
 
-[Computer Works 20](it20.md)
+[Information Technology (Computer Works) 20](it20.md)
 
 [Robotics 20](r20.md)
 
@@ -22,7 +22,7 @@
 
 [Computing Science 30](cs30.md)
 
-[Computer Works 30](it30.md)
+[Information Technology (Computer Works) 30](it30.md)
 
 [Robotics 30](r30.md)
 
