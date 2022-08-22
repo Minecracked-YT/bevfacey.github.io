@@ -1,6 +1,6 @@
 # Facey Computers Activities for Everyone
 
-## Day 1 - micro:bit programming
+## micro:bit programming
 
 1. Get a micro:bit and a Micro USB cable
 2. Ensure the micro:bit (V1) is running [firmware version 0249](https://microbit.org/get-started/user-guide/firmware/), update it if necessary
@@ -11,13 +11,14 @@
 ---
 
 ## Computer Setup
-* Your laptop computer will be assigned to you for the semester, but may not be taken home except with explicit permission.
+* You may use your own computer and connect to the `bfhschoolguest` or `FaceyComputers` WiFi.
+* A FaceyComputers laptop computer can be assigned to you for the semester, but may not be taken home except with explicit permission.
     * Use tape to label the lid with your name and period number.
     * Remove any Chrome profiles from former students.
     * Always check that you are using the correct power adaptor.
     * You may install programs or other operating systems if you prefer. Laptops will likely be wiped at the end of the semester.
-    * At the end of every class period, ensure that your work has been backed up online (e.g. Google Drive, Microsoft OneDrive, GitHub) in case of local file loss.
 * You may also choose to connect and use additional monitors.
+* At the end of every class period, ensure that your work has been backed up online (e.g. Google Drive, Microsoft OneDrive, GitHub) in case of local file loss.
 * IT (CompWorks) students must set up a desktop computer with two monitors.
 
 ---
@@ -26,7 +27,7 @@
 1. Policies and Procedures
 1. Web Browsers, Brightspace, Google Drive
 1. File Management and Password Management
-1. Version Control and GitHub
+1. Version Control and GitHub (see GitHub Classroom)
 1. Project Management, Agile Development, and Collaboration
 1. Security and Privacy
 
