@@ -27,7 +27,7 @@
 1. Policies and Procedures
 1. Web Browsers, Brightspace, Google Drive
 1. File Management and Password Management
-1. Version Control and GitHub (see GitHub Classroom)
+1. Version Control and GitHub ([GitHub Classroom](https://classroom.github.com/a/rtd5iZM_))
 1. Project Management, Agile Development, and Collaboration
 1. Security and Privacy
 
