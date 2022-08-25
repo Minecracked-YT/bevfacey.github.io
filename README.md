@@ -6,7 +6,7 @@
 
 [Computing Science 10](cs10.md)
 
-[Information Technology (Computer Works)](it10.md)
+[Information Technology (Computer Works) 10](it10.md)
 
 [Robotics 10](r10.md)
 
