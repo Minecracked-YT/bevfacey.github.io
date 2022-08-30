@@ -1,17 +1,7 @@
 # Facey Computers Activities for Everyone
 
-## micro:bit programming
-
-1. Get a micro:bit and a Micro USB cable
-2. Ensure the micro:bit (V1) is running [firmware version 0249](https://microbit.org/get-started/user-guide/firmware/), update it if necessary
-3. Create a project at [makecode.microbit.org](https://makecode.microbit.org/) that simulates the rolling of 20-sided dice
-4. Copy and modify a project from the micro:bit makecode library
-5. Advanced: with a partner, have each micro:bit roll a number and then display `W` if it rolled the higher number, or `L` if it rolled the lower number. You'll need to use [radio blocks](https://makecode.microbit.org/courses/csintro/radio) for communication
-
----
-
 ## Computer Setup
-* You may use your own computer and connect to the `bfhschoolguest` or `FaceyComputers` WiFi.
+* You may use your own computer and connect to the `bfhschoolguest` or `Comp Works` WiFi.
 * A FaceyComputers laptop computer can be assigned to you for the semester, but may not be taken home except with explicit permission.
     * Use tape to label the lid with your name and period number.
     * Remove any Chrome profiles from former students.
@@ -20,6 +10,16 @@
 * You may also choose to connect and use additional monitors.
 * At the end of every class period, ensure that your work has been backed up online (e.g. Google Drive, Microsoft OneDrive, GitHub) in case of local file loss.
 * IT (CompWorks) students must set up a desktop computer with two monitors.
+
+---
+
+## micro:bit programming
+
+1. Get a micro:bit and a Micro USB cable
+2. Ensure the micro:bit (V1) is running [firmware version 0249](https://microbit.org/get-started/user-guide/firmware/), update it if necessary
+3. Create a project at [makecode.microbit.org](https://makecode.microbit.org/) that simulates the rolling of 20-sided dice
+4. Copy and modify a project from the micro:bit makecode library
+5. Advanced: with a partner, have each micro:bit roll a number and then display `W` if it rolled the higher number, or `L` if it rolled the lower number. You'll need to use [radio blocks](https://makecode.microbit.org/courses/csintro/radio) for communication
 
 ---
 
