@@ -1,5 +1,11 @@
 # Bev Facey Computers
 
+[Programs of Study](https://github.com/BevFacey/bevfacey.github.io/tree/main/ProgramsOfStudy)
+
+[Programs of Study](ProgramsOfStudy)
+
+---
+
 [Everyone](everyone.md)
 
 ---
