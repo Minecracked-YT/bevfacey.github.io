@@ -37,7 +37,7 @@
 
 ## Impact of Computing Topics:
 
-1. Artificial Intelligence: Inequality, Job Loss, and Uniquely Human Abilities
+1. [Artificial Intelligence: Inequality, Job Loss, and Uniquely Human Abilities](https://docs.google.com/document/d/1ygKc5QQ5-5r0CzYOvpNQERCh5bbX_82NClYlazB0kFE)
 1. Utility, Security, and Privacy
 1. Freedoms, Rights, and Responsibilities
 1. Social Media: Engagement and the Attention Economy
