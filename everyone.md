@@ -38,7 +38,7 @@
 ## Impact of Computing Topics:
 
 1. Artificial Intelligence: Inequality, Job Loss, and Uniquely Human Abilities
-1. Utility, Security, and Privacy
+1. Utility, Security, and Privacy - [Jamboard](https://jamboard.google.com/d/1C63rU3kptizz8tBI9PXbQAQCZLGLYl-0DGwUlycIDRM/edit)
 1. Freedoms, Rights, and Responsibilities
 1. Social Media: Engagement and the Attention Economy
 1. Misinformation and Disinformation: Filter Bubbles, Polarization, and the Death of Discourse
