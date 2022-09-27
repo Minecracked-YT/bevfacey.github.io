@@ -1,5 +1,9 @@
 # Bev Facey Computers
 
+[![WISEST SET Conference](WISEST_SET.png)](https://www.ualberta.ca/women-in-scholarship-engineering-science-technology/programs/set-conference/index.html)
+
+---
+
 [Programs of Study](https://github.com/BevFacey/bevfacey.github.io/tree/main/ProgramsOfStudy)
 
 ---
