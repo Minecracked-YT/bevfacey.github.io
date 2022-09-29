@@ -1,0 +1,55 @@
+<?xml version='1.0' ?>
+<menu>
+  <item id="home" imagePath="home" linkPath="inf2020_spl.html" linkText="INF2020">
+    <item id="0-copy" imagePath="leaf" linkPath="inf2020_copy.html" linkText="Copyright" />
+	<item id="0-tr" imagePath="leaf" linkPath="inf2020_tech.html" linkText="Technical Requirements" >
+	</item>
+	
+	<item id="0-intro" imagePath="book_brown" linkPath="ori/inf2020_int.html" linkText="Orientation" >
+      <item id="0-bp" imagePath="leaf" linkPath="ori/inf2020_bp.html" linkText="Big Picture" />
+	  <item id="0-ex" imagePath="leaf" linkPath="ori/inf2020_ex.html" linkText="Learner Expectations" />
+    </item>
+	
+	<item id="1-a" imagePath="book_red" linkPath="pr1/inf2020_pr1.html" linkText="Project 1" >
+      <item id="1-a-p2" imagePath="leaf" linkPath="pr1/inf2020_pr1_p02.html" linkText="Page 2" />
+	  <item id="1-a-p3" imagePath="leaf" linkPath="pr1/inf2020_pr1_p03.html" linkText="Page 3" />
+	  <item id="1-a-p4" imagePath="leaf" linkPath="pr1/inf2020_pr1_p04.html" linkText="Page 4" />
+	  <item id="1-a-p5" imagePath="leaf" linkPath="pr1/inf2020_pr1_p05.html" linkText="Page 5" />
+	  <item id="1-a-p6" imagePath="leaf" linkPath="pr1/inf2020_pr1_p06.html" linkText="Page 6" />
+	  <item id="1-a-p7" imagePath="leaf" linkPath="pr1/inf2020_pr1_p07.html" linkText="Page 7" />
+	  <item id="1-a-p8" imagePath="leaf" linkPath="pr1/inf2020_pr1_p08.html" linkText="Page 8" />
+	  <item id="1-a-p9" imagePath="leaf" linkPath="pr1/inf2020_pr1_p09.html" linkText="Page 9" />
+	  <item id="1-a-p10" imagePath="leaf" linkPath="pr1/inf2020_pr1_p10.html" linkText="Page 10" />
+      <item id="1-a-1-i" imagePath="book_red" linkPath="pr1/trr1/inf2020_pr1_trr1.html" linkText="Training Room 1" >
+        <item id="1-a-1-2" imagePath="leaf" linkPath="pr1/trr1/inf2020_pr1_trr1_p2.html" linkText="Page 2" />
+        <item id="1-a-1-3" imagePath="leaf" linkPath="pr1/trr1/inf2020_pr1_trr1_p3.html" linkText="Page 3">
+        </item>
+      </item>
+      
+      <item id="1-a-sum" imagePath="leaf" linkPath="pr1/inf2020_pr1_sum.html" linkText="Project 1 Summary" />
+    </item>
+	
+	<item id="2-b" imagePath="book_blue" linkPath="pr2/inf2020_pr2.html" linkText="Project 2" >
+      <item id="2-b-p2" imagePath="leaf" linkPath="pr2/inf2020_pr2_p2.html" linkText="Page 2" />
+	  <item id="2-b-p3" imagePath="leaf" linkPath="pr2/inf2020_pr2_p3.html" linkText="Page 3" />
+	  <item id="2-b-p4" imagePath="leaf" linkPath="pr2/inf2020_pr2_p4.html" linkText="Page 4" />
+      <item id="2-b-1-i" imagePath="book_blue" linkPath="pr2/trr2/inf2020_pr2_trr2.html" linkText="Training Room 2" >
+        <item id="2-b-1-2" imagePath="leaf" linkPath="pr2/trr2/inf2020_pr2_trr2_p2.html" linkText="Page 2" />
+        <item id="2-b-1-3" imagePath="leaf" linkPath="pr2/trr2/inf2020_pr2_trr2_p3.html" linkText="Page 3">
+        </item>
+      </item>
+      
+      <item id="2-b-sum" imagePath="leaf" linkPath="pr2/inf2020_pr2_sum.html" linkText="Project 2 Summary" />
+    </item>
+	
+	<item id="3-c" imagePath="book_green" linkPath="pr3/inf2020_fpr.html" linkText="Project 3" >
+      
+      <item id="3-c-sum" imagePath="leaf" linkPath="pr3/inf2020_fpr_sum.html" linkText="Project 3 Summary" />
+    </item>
+	
+	<item id="0-ft" imagePath="leaf" linkPath="inf2020_ft.html" linkText="Final Test" />
+	<item id="0-sum" imagePath="leaf" linkPath="inf2020_sum.html" linkText="Course Summary" />
+	<item id="0-glo" imagePath="leaf" linkPath="inf2020_glo.html" linkText="Course Glossary" />
+	<item id="0-tk" imagePath="leaf" linkPath="inf2020_tk.html" linkText="Toolkit" />
+  </item>
+</menu>

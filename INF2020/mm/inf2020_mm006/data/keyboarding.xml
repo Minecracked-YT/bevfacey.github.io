@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Keyboarding:	Final Test
+	Modes:			Alpha	
+-->
+<keyboarding sup="INF 2020:" title="Keyboarding" sub="ALPHA REVIEW" mode="review"><!-- Set mode to either "final" or "review" -->
+	<overview>
+		<headline>
+			<headline_1 size="27" y="0">GET READY FOR YOUR</headline_1>
+			<headline_2 size="80" y="11">TYPING</headline_2>
+			<headline_3 size="80" y="75">TEST</headline_3>
+		</headline>
+		<instructions>
+			<li>This alpha review will assess your keyboarding speed, accuracy, and technique. Before the timed portion of your review begins, spend a few moments preparing yourself. Adjust your chair, keyboard, and monitor for optimum comfort and efficiency.</li>
+			<li>Do some warm-up exercises for your hands. When you are ready to proceed, click the continue button.</li>
+			<li>If you have more that 1 uncorrected error, your score will be zero.</li>
+		</instructions>
+		<button>Continue</button>
+		<note>You will not be able to to save your documents to your computer. Remember to print off each exercise as you complete it.</note>
+	</overview>
+	<navigation>
+		<buttons>
+			<main>Main</main>
+		</buttons>
+	</navigation>
+	<modules>
+		<module type="alpha">
+			<overview>
+				<headline>
+					<headline_1>PART A</headline_1>
+					<headline_2>TIMINGS ON THE</headline_2>
+					<headline_3>ALPHA</headline_3>
+					<headline_4>KEYPAD</headline_4>
+				</headline>
+				<instructions>
+					<p>You will do 3 timed writings. The first two will be 2 minutes, and the third timing will be 3 minutes in length. You are expected to attain a minimum speed of 30 words per minute with a maximum of 1 uncorrected error on each writing. You are allowed to use the Backspace key to correct errors while being timed, or if you finish early you can go back and correct any errors until the timer runs out. Press  Enter at the end of each line. Remember to print your results.</p>
+				</instructions>
+				<note>Please select which timed<br />writing you will attempt:</note>
+			</overview>
+			<tests name="Alpha Timed Writing">
+				<start_message>Press the space bar to begin the test.</start_message>
+				<overview>
+					<headline>
+						<headline_1>ALPHA KEYPAD $NAME</headline_1>
+						<headline_2>INSTRUCTIONS</headline_2>
+					</headline>
+					<instructions>
+						<p>You will have a set time to complete this keyboarding review. If you have more that 1 uncorrected error, your score will be zero.</p>
+						<p>When you are ready to begin, click the Start Timing button.</p>
+						<p>When you are finished, or time has expired, click the Check Accuracy button. This will assess your keyboarding speed and accuracy.</p>
+						<p>Click the Submit/Print Results button to print a copy of your final results of this exercise.</p>
+					</instructions>
+					<duration>
+						<title>DURATION</title>
+						<text>This test will take $DURATION</text>
+					</duration>
+					<layout>
+						<title>CHOOSE A LAYOUT</title>
+					</layout>
+					<button>Start Timing</button>
+				</overview>
+				<test id="alpha_1" name="1A" duration="2 minutes" duration_in_seconds="120">
+					<source>
+						<line>So, fish day and night is what we thought we</line>
+						<line>would do. The sun had risen only a little, so it</line>
+						<line>must not have been more than eight or nine in the</line>
+						<line>morning when the ten sets of lines first hit the</line>
+						<line>water. We laughed when Bob snagged the first shoe</line>
+						<line>and when Bev lost the first hook to a hidden log.</line>
+						<line>We had no luck at all that morning.</line>
+					</source>
+					<buttons>
+						<check>Check Accuracy</check>
+						<check_time_expired>Time has Expired, Check Accuracy</check_time_expired>
+						<restart>Restart</restart>
+					</buttons>
+				</test>
+				<test id="alpha_2" name="2A" duration="2 minutes" duration_in_seconds="120">
+					<source>
+						<line>What a busy life we lead! What happened to</line>
+						<line>the good old days? I can remember Grandpa Stephen</line>
+						<line>telling me about his childhood in Crooked Creek.</line>
+						<line>Every evening, people would go for leisurely walks</line>
+						<line>in their neighborhoods. As a result, they would</line>
+						<line>meet their neighbors on the street or sitting on</line>
+						<line>their front porches. They got to know all of the</line>
+						<line>people in their neighborhood well and they looked</line>
+						<line>out for one another. There was very little crime,</line>
+						<line>and the streets were clean and safe. There was a</line>
+						<line>slower pace of life, but no one was unhappy about</line>
+						<line>things they might be missing out on. People</line>
+						<line>were proud of their communities and were ready to</line>
+						<line>pitch in to improve things for the benefit of all.</line>
+						<line>Life is so much different now.</line>
+					</source>
+					<buttons>
+						<check>Check Accuracy</check>
+						<check_time_expired>Time has Expired, Check Accuracy</check_time_expired>
+						<restart>Restart</restart>
+					</buttons>
+				</test>
+				<test id="alpha_3" name="3A" duration="3 minutes" duration_in_seconds="180">
+					<source>
+						<line>Many people fail in school because they do not know how</line>
+						<line>to study effectively. Before you can master any academic</line>
+						<line>subject, you must learn the basic techniques which lead to</line>
+						<line>efficient study. It is a good idea to start by setting up</line>
+						<line>your long-range and short-range goals and then to determine</line>
+						<line>how much study effort you will need to expend every day.</line>
+						<line>It is desirable to study in the same place every day.</line>
+						<line>You will get accustomed to working in one setting, whether it</line>
+						<line>is the library or the study hall at your school or your own</line>
+						<line>room at home. The study environment should be as well</line>
+						<line>lighted, comfortable, and as free from distracting noise as</line>
+						<line>you can manage. Before you start to study, plan how much</line>
+						<line>time you will need for your current assignment. In addition,</line>
+						<line>you must allow ample time to complete any projects before</line>
+						<line>their deadlines. You must also allow time to study for any</line>
+						<line>tests you will take.</line>
+					</source>
+					<buttons>
+						<check>Check Accuracy</check>
+						<check_time_expired>Time has Expired, Check Accuracy</check_time_expired>
+						<restart>Restart</restart>
+					</buttons>
+				</test>
+			</tests>
+		</module>
+	</modules>
+	<accuracy>
+		<name_entry>
+			<headline>
+				<headline_1>$TYPE KEYPAD $NAME</headline_1>
+				<headline_2>ACCURACY</headline_2>
+			</headline>
+			<input>
+				<title>FIRST, PLEASE ENTER YOUR NAME:</title>
+			</input>
+			<buttons>
+				<save>Save Name</save>
+			</buttons>
+		</name_entry>
+		<results>
+			<titles>
+				<name>NAME</name>
+				<date>DATE</date>
+				<duration>DURATION</duration>
+				<words_per_minute>WORDS PER MINUTE</words_per_minute>
+				<keys_per_minute>KEYS PER MINUTE</keys_per_minute>
+				<accuracy>ACCURACY</accuracy>
+				<errors>ERRORS</errors>
+			</titles>
+			<buttons>
+				<print>Print Results</print>
+				<main>Choose Another Timing</main>
+			</buttons>
+			<note>NOTE: You will not be able to to save your documents to your computer. Remember to print off each exercise as you complete it.</note>
+			<errors allowed="0">You have exceeded the maximum errors allowed for this writing.</errors>
+		</results>
+	</accuracy>
+</keyboarding>

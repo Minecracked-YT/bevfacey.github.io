@@ -1,0 +1,523 @@
+/* CSS Document */
+body {
+	height:auto;
+	margin:0px;
+	margin-left: 0px;
+	margin-right: auto;
+	padding: 0px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:small;
+	color:#000000;
+	background-color:#FFFFFF;
+	background-position:center;
+	text-align:left;
+	
+}
+/*from undohtml.css file*/
+h1,h2,h3,h4,h5,h6,pre,form,body,html,blockquote,fieldset,input
+{ margin:1px; padding:1px; }
+
+p { margin:0px; padding:0px; }
+
+a img,:link img,:visited img { border:none }
+
+address { font-style:normal }
+
+h1 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	font-size:170%;
+}
+
+h2 {/*changed h2 to be the larger heading for the course get focused etc.*/
+	color:#000000;
+	font-size:160%;
+	font-weight:bold;
+	}
+/*Module Headings*/
+h3 {
+	text-align:center;
+	background-color:#056cb7;
+	color:#FFFFFF;
+	font-size:150%;
+	font-weight:normal;
+}
+/*Lesson Headings*/
+h4 {
+	color:#000000;
+	font-size:140%;
+	font-weight:bold;
+}
+/*Lesson Sub-headings Note: changed light green to darker 154d26 for better viewing changed h5 to 14pt*/
+h5 {
+	color:#003366;
+	font-size:130%;
+	font-weight:bold;
+}
+/*Lesson Breakout Headings*/
+h6 {
+	color:#000000;
+	font-size:120%;
+	font-weight:bold;
+}
+
+.h6colour{
+	color:#1256A7;
+	font-size:120%;
+}
+	
+p {
+	text-indent:0em;
+}/* added ul and ol for better display of bulleted text*/
+ul{
+      padding-left: 10px!important;
+      margin-left: 25px!important;
+      
+}
+ol{
+      padding-left: 10px!important;
+      margin-left: 30px!important;
+      
+}
+
+br{
+	clear:both;
+	}
+	
+/* ---------- CUSTOM IDs -------------- */
+#footer {
+	display:none;
+	clear:both;
+	margin:0px;
+	padding: 5px 0px 0px 0px;
+	height:25px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	background-color:#056cb7;
+	text-align:center;
+	color: #FFFFFF;
+	font-size:100%;
+}
+#footer a {
+	text-decoration: underline;
+	color: #FFFFFF;
+	border-bottom: 0px;
+}
+#footer a:hover { 
+	text-decoration: none;
+}
+#footer2 {
+	clear:both;
+	margin:0px;
+	padding: 5px 0px 0px 0px;
+	height:25px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	background-color:#056cb7;
+	text-align:center;
+	color: #FFFFFF;
+	font-size:80%;
+}
+#footer2 a {
+	text-decoration: underline;
+	color: #FFFFFF;
+	border-bottom: 0px;
+}
+#footer2 a:hover { 
+	text-decoration: none;
+}
+
+/* ----------- CUSTOM CLASSES ------------ */
+
+.bgtable{
+background-color:#9BB9DA;
+}
+
+.credit {
+	font-size:66%;
+	color:#000000;
+}
+
+.caption {
+	font-size:83%;
+	color:#000000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+.superscript {
+	vertical-align:super;
+	font-size:70%;
+}
+
+.subscript {
+	vertical-align:sub;
+	font-size:70%;
+}
+
+.typewriter {
+	font-size:100%;
+	color:#000000;
+	font family: Courier New, Courier, serif;
+	font-family: "Courier New", Courier, monospace;
+}
+	
+.typewriterhighlight {
+	background-color:#99CCFF;
+}
+
+.center {
+	text-align:center;
+}
+/* --------- NO BACKGROUND IMAGE CLASSES ------------ */
+.right1block{
+	float:right;
+	border:0px solid #000000;
+	width:170px;
+	max-width:170px;
+	min-height:10px;
+	margin: 0px;
+	padding:5px;
+	text-align:left;
+}
+
+.right2block{
+	float:right;
+	border:0px solid #000000;
+	width:315px;
+	max-width:315px;
+	min-height:10px;
+	margin: 0px;
+	padding:5px;
+	text-align:left;
+}
+
+.right3block{
+	float:right;
+	border:0px solid #000000;
+	width:455px;
+	max-width:455px;
+	min-height:10px;
+	margin:0px;
+	padding:5px;
+	text-align:left;
+}
+
+.rightdivspecial{
+	float:right;
+	border:0px solid #000000;
+	width:600px;
+	max-width:600px;
+	min-height:10px;
+	margin:0px;
+	padding:5px;
+	text-align:left;
+}
+	
+.left1block{
+	float:left;
+	border:0px solid #000000;
+	width:170px;
+	max-width:170px;
+	min-height:10px;
+	margin: 0px;
+	padding:5px;
+	text-align:left;
+}
+
+.left2block{
+	float:left;
+	border:0px solid #000000;
+	width:315px;
+	max-width:315px;
+	min-height:10px;
+	margin: 0px;
+	padding:5px;
+	text-align:left;
+}
+
+.left3block{
+	float:left;
+	border:0px solid #000000;
+	width:455px;
+	max-width:455px;
+	min-height:10px;
+	margin:0px;
+	padding:5px;
+	text-align:left;
+}
+.left4block{
+	float:left;
+	border:0px solid #000000;
+	margin:0px;
+	padding:5px;
+	text-align:left;
+}
+/* ------- BACKGROUND COLOUR DIV CLASSES ------- */
+.right1blockColour{
+	float:right;
+	border:0px solid #000000;
+	width:170px;
+	max-width:170px;
+	min-height:10px;
+	margin:0 0 0 5px;
+	padding:5px;
+	text-align:left;
+	background-color:#99ccff;
+}
+.right2blockColour{
+	float:right;
+	border:0px solid #000000;
+	width:315px;
+	max-width:315px;
+	min-height:10px;
+	margin:0 0 0 5px;
+	padding:5px;
+	text-align:left;
+	background-color:#99ccff;
+}
+.right3blockColour{
+	float:right;
+	border:0px solid #000000;
+	width:455px;
+	max-width:455px;
+	min-height:10px;
+	margin:0 0 0 5px;
+	padding:5px;
+	text-align:left;
+	background-color:#99ccff;
+}
+.left1blockColour{
+	float:left;
+	border:0px solid #000000;
+	width:170px;
+	max-width:170px;
+	min-height:10px;
+	margin:0 5px 0 0;
+	padding:5px;
+	text-align:left;
+	background-color:#99ccff;
+}
+
+.left2blockColour{
+	float:left;
+	border:0px solid #000000;
+	width:315px;
+	max-width:315px;
+	min-height:10px;
+	margin:0 5px 0 0;
+	padding:5px;
+	text-align:left;
+	background-color:#99ccff;
+}
+
+.left3blockColour{
+	float:left;
+	border:0px solid #000000;
+	width:455px;
+	max-width:455px;
+	min-height:10px;
+	margin:0 5px 0 0;
+	padding:5px;
+	text-align:left;
+	background-color:#99ccff;
+}
+.block4Colour{
+	float:left;
+	margin:0 5px 0 0;
+	padding:5px;
+	text-align:left;
+	background-color:#99ccff;
+}
+
+.video_320x200 {
+	float: left;
+	height: 200px;
+	width: 320px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+}
+
+.video_320x260 {
+	float: left;
+	height: 260px;
+	width: 320px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+}
+
+.audio_320x15 {
+	float: left;
+	height: 15px;
+	width: 320px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+}
+
+.audio_320x18{
+	float:left;
+	border:0px solid #000000;
+	width:320px;
+	height:18px;
+	min-width:320px;
+	min-height:18px;
+	margin:0px;
+	padding:0px;
+	text-align:left;
+}
+
+.iframe450x600 {
+	height: 600px;
+	width: 450px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+}
+
+.flash550x400{
+	float:left;
+	border:0px solid #000000;
+	width:550px;
+	height:400px;
+	min-width:550px;
+	min-height:400px;
+	margin:0px;
+	padding:0px;
+	text-align:left;
+}
+
+.flash600x400{
+	float:left;
+	border:0px solid #000000;
+	width:600px;
+	height:400px;
+	min-width:600px;
+	min-height:400px;
+	margin:0px;
+	padding:0px;
+	text-align:left;
+}
+
+.flash640x400{
+	float:left;
+	border:0px solid #000000;
+	width:640px;
+	height:400px;
+	min-width:640px;
+	min-height:400px;
+	margin:0px;
+	padding:0px;
+	text-align:left;
+}
+
+.flash640x500{
+	float:left;
+	border:0px solid #000000;
+	width:640px;
+	height:500px;
+	min-width:640px;
+	min-height:500px;
+	margin:0px;
+	padding:0px;
+	text-align:left;
+}
+
+.flash640x600{
+	float:left;
+	border:0px solid #000000;
+	width:640px;
+	height:600px;
+	min-width:640px;
+	min-height:600px;
+	margin:0px;
+	padding:0px;
+	text-align:left;
+}
+
+.flash640x800{
+	float:left;
+	border:0px solid #000000;
+	width:640px;
+	height:800px;
+	min-width:640px;
+	min-height:800px;
+	margin:0px;
+	padding:0px;
+	text-align:left;
+}
+
+
+.nowrap{
+	white-space:nowrap;
+	}
+	
+.icondiv45x31{
+	max-width:62px;
+	width:58px;
+	padding-right:5px;
+	float:left;
+}
+
+/* ----------- COMMENT TABLE STYLES -------------- */
+.commentTable{
+	font-size:9px;
+	background-color:#ccc;
+}
+
+.commentEditor{
+	background-color:#00CCCC;
+	color:#000066;
+}
+.commentPM{
+	background-color:#00CC99;
+	color:#006633;
+}
+.commentPublisher{
+	background-color:#c300ff;
+	color:#fff;
+}
+
+/*--------Show Hide Div Layer-------*/
+
+.show_btn{	/* Styling question */
+	/* Start layout CSS */
+	color:#FFFFFF;
+	font-size:0.9em;
+	background-color:#056cb7;
+	width:300px;
+	margin-bottom:2px;
+	margin-top:2px;
+	padding-left:2px;
+	background-repeat:no-repeat;
+	background-position:top right;	
+	height:20px;
+	
+	/* End layout CSS */
+	
+	overflow:hidden;
+	cursor:pointer;
+}
+
+.contentparent_box{	/* Parent box of slide down content */
+	/* Start layout CSS */
+	border:1px solid #056cb7;
+	background-color:#E2EBED;
+	width:650px;
+	
+	/* End layout CSS */
+	
+	visibility:hidden;
+	height:0px;
+	overflow:hidden;
+	position:relative;
+}
+
+.content_div{	/* Content that is slided down */
+	padding:5px;
+	font-size:0.9em;	
+	position:relative;
+}

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Keyboarding:	Final Test
+	Modes:			Numeric	
+-->
+<keyboarding sup="INF 2020:" title="Keyboarding" sub="NUMERIC REVIEW" mode="review"><!-- Set mode to either "final" or "review" -->
+	<overview>
+		<headline>
+			<headline_1 size="27" y="0">GET READY FOR YOUR</headline_1>
+			<headline_2 size="80" y="11">TYPING</headline_2>
+			<headline_3 size="80" y="75">TEST</headline_3>
+		</headline>
+		<instructions>
+			<li>This numeric review will assess your keyboarding speed, accuracy, and technique. Before the timed portion of your review begins, spend a few moments preparing yourself. Adjust your chair, keyboard, and monitor for optimum comfort and efficiency.</li>
+			<li>Do some warm-up exercises for your hands. When you are ready to proceed, click the continue button.</li>
+			<li>If you have more that 1 uncorrected error, your score will be zero.</li>
+		</instructions>
+		<button>Continue</button>
+		<note>You will not be able to to save your documents to your computer. Remember to print off each exercise as you complete it.</note>
+	</overview>
+	<navigation>
+		<buttons>
+			<main>Main</main>
+		</buttons>
+	</navigation>
+	<modules>
+		<module type="numeric">
+			<overview>
+				<headline>
+					<headline_1>PART B</headline_1>
+					<headline_2>TIMINGS ON THE</headline_2>
+					<headline_3>NUMERIC</headline_3>
+					<headline_4>KEYPAD</headline_4>
+				</headline>
+				<instructions>
+					You will do 3 timed writings on the numeric keypad. The timings will be 1, 2, and 3 minutes in length. You are expected to attain a minimum speed of 100 keystrokes per minute with a maximum of 1 uncorrected error. You are allowed to use the Backspace key to correct errors while being timed, or if you finish early you can go back and correct any errors until the timer runs out. Press  Enter at the end of each line. Remember to print your results.
+				</instructions>
+				<note>Please select which timed<br />writing you will attempt:</note>
+			</overview>
+			<tests name="Numeric Timed Writing">
+				<start_message>Press the space bar to begin the test.</start_message>
+				<overview>
+					<headline>
+						<headline_1>NUMERIC KEYPAD $NAME</headline_1>
+						<headline_2>INSTRUCTIONS</headline_2>
+					</headline>
+					<instructions>
+						<p>You will have a set to complete this keyboarding test. If you have more that 1 uncorrected error, your score will be zero.</p>
+						<p>When you are ready to begin, click the Start Timing button.</p>
+						<p>When you are finished, or time has expired, click the Check Accuracy button. This will assess your keyboarding speed and accuracy.</p>
+						<p>Click the Submit/Print Results button to print a copy of your final results of this exercise.</p>
+					</instructions>
+					<duration>
+						<title>DURATION</title>
+						<text>This test will take $DURATION</text>
+					</duration>
+					<layout>
+						<title>CHOOSE A LAYOUT</title>
+					</layout>
+					<button>Start Timing</button>
+				</overview>
+				<test id="numeric_1" name="1B" duration="1 minute" duration_in_seconds="60">
+					<source>
+						<line>46</line>
+						<line>54</line>
+						<line>5</line>
+						<line>47</line>
+						<line>613</line>
+						<line>171</line>
+						<line>289</line>
+						<line>22</line>
+						<line>354</line>
+						<line>0</line>
+						<line>29</line>
+						<line>982</line>
+						<line>68</line>
+						<line>73</line>
+						<line>404</line>
+						<line>3</line>
+						<line>44</line>
+						<line>805</line>
+						<line>7</line>
+						<line>51</line>
+						<line>201</line>
+						<line>4</line>
+						<line>8</line>
+						<line>60</line>
+						<line>878</line>
+						<line>565</line>
+						<line>69</line>
+						<line>23</line>
+						<line>547</line>
+						<line>88</line>
+						<line>80</line>
+						<line>2</line>
+					</source>
+					<buttons>
+						<check>Check Accuracy</check>
+						<check_time_expired>Time has Expired, Check Accuracy</check_time_expired>
+						<restart>Restart</restart>
+					</buttons>
+				</test>
+				<test id="numeric_2" name="2B" duration="1 minute" duration_in_seconds="120">
+					<source>
+						<line>389+87+654+587+559+986+231+564+8+7+2+49</line>
+						<line>82-74-3-1-4-8-9-7+25+67+36+-49-+97+19+1</line>
+						<line>61+57-52+87-98/3+81+40+597+803+374-97-2</line>
+						<line>540+568-21+53+64*4+441+313+737+582+64+5</line>
+					</source>
+					<buttons>
+						<check>Check Accuracy</check>
+						<check_time_expired>Time has Expired, Check Accuracy</check_time_expired>
+						<restart>Restart</restart>
+					</buttons>
+				</test>
+				<test id="numeric_3" name="3B" duration="3 minutes" duration_in_seconds="180">
+					<source>
+						<line>1541</line>
+						<line>651</line>
+						<line>6502</line>
+						<line>653</line>
+						<line>1</line>
+						<line>6488</line>
+						<line>649</line>
+						<line>5287</line>
+						<line>99</line>
+						<line>821</line>
+						<line>823</line>
+						<line>401</line>
+						<line>47</line>
+						<line>58</line>
+						<line>60</line>
+						<line>263</line>
+						<line>52</line>
+						<line>104</line>
+						<line>3722</line>
+						<line>385</line>
+						<line>39</line>
+						<line>2732</line>
+						<line>1343</line>
+						<line>2017</line>
+						<line>1757</line>
+						<line>180</line>
+						<line>6042</line>
+						<line>1857</line>
+						<line>3935</line>
+					</source>
+					<buttons>
+						<check>Check Accuracy</check>
+						<check_time_expired>Time has Expired, Check Accuracy</check_time_expired>
+						<restart>Restart</restart>
+					</buttons>
+				</test>
+			</tests>
+		</module>
+	</modules>
+	<accuracy>
+		<name_entry>
+			<headline>
+				<headline_1>$TYPE KEYPAD $NAME</headline_1>
+				<headline_2>ACCURACY</headline_2>
+			</headline>
+			<input>
+				<title>FIRST, PLEASE ENTER YOUR NAME:</title>
+			</input>
+			<buttons>
+				<save>Save Name</save>
+			</buttons>
+		</name_entry>
+		<results>
+			<titles>
+				<name>NAME</name>
+				<date>DATE</date>
+				<duration>DURATION</duration>
+				<words_per_minute>WORDS PER MINUTE</words_per_minute>
+				<keys_per_minute>KEYS PER MINUTE</keys_per_minute>
+				<accuracy>ACCURACY</accuracy>
+				<errors>ERRORS</errors>
+			</titles>
+			<buttons>
+				<print>Print Results</print>
+				<main>Choose Another Timing</main>
+			</buttons>
+			<note>NOTE: You will not be able to to save your documents to your computer. Remember to print off each exercise as you complete it.</note>
+			<errors allowed="0">You have exceeded the maximum errors allowed for this final test. Please see your teacher to discuss the next step.</errors>
+		</results>
+	</accuracy>
+</keyboarding>
