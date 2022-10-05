@@ -41,8 +41,8 @@
 1. Utility, Security, and Privacy
 1. Why are devices, especially mobile devices, so compelling?
 1. Social Media: Engagement and the Attention Economy
+1. Freedoms, Rights, and Responsibilities, and [an AI "Bill of Rights"](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
 1. Misinformation and Disinformation: Filter Bubbles, Polarization, and the Death of Discourse
-1. Freedoms, Rights, and Responsibilities
 1. Targetted Advertisting and User Tracking
 1. Artificial Intelligence and Machine Learning: Errors, Bias, and Automated Discrimination
 1. Intellectual Property: Copyright and Trademarks, Creative Commons, Open x, Public Domain
