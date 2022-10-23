@@ -43,9 +43,10 @@
 1. Social Media: Engagement and the Attention Economy
 1. Freedoms, Rights, and Responsibilities, and [an AI "Bill of Rights"](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
 1. Misinformation and Disinformation: Filter Bubbles, Polarization, and the Death of Discourse
-1. Targetted Advertisting and User Tracking
+1. [Training an AI Model](https://teachablemachine.withgoogle.com/train/image)
 1. Artificial Intelligence and Machine Learning: Errors, Bias, and Automated Discrimination
 1. Intellectual Property: Copyright and Trademarks, Creative Commons, Open x, Public Domain
+1. Targetted Advertisting and User Tracking
 1. Net Neutrality, Equitable Access, and the Digital Divide (locally and internationally)
 1. Cybercrime, Cyberbullying, and Anonymity
 1. Artificial Intelligence and Machine Learning: Potentials and Pitfalls, Success Parameters and Grey Goo
