@@ -1,6 +1,6 @@
 # Bev Facey Computers
 
-[WISEST SET Conference](https://www.ualberta.ca/women-in-scholarship-engineering-science-technology/programs/set-conference/index.html)
+[Canadian Space Agency: Space Brain Hack](https://www.asc-csa.gc.ca/eng/youth-educators/objective-moon/space-brain-hack.asp)
 
 ---
 
