@@ -1,5 +1,9 @@
 # Facey Computers Activities for Everyone
 
+## Spotify Notebook
+
+Try this [Spotify notebook](https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https://gist.github.com/1cba2d46550abd163b0fc53d4f5bbb7d.git&branch=main&urlpath=notebooks/1cba2d46550abd163b0fc53d4f5bbb7d.git/music-intro.ipynb&depth=1)
+
 ## Computer Setup
 
 * You may use your own computer and connect to the `bfhschoolguest` or `Comp Works` WiFi.
