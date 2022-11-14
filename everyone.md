@@ -48,3 +48,8 @@ Try this [Spotify notebook](https://hub.callysto.ca/jupyter/hub/user-redirect/gi
 1. Genetics: CRISPR, Discrimination, Targetted Therapies, Predictive Medicine, Bioweapons
 1. Blockchain and Crypto: Potential, Solutions, and Impacts (environmental, social, political, etc.)
 1. Environmental Issues: Large and Small Scale Effects and Possible Solutions
+
+Books
+
+1. [Python](https://drive.google.com/drive/folders/0BxIiHHoXWwwtRFlGR3U1amJGVFU)
+1. [Robotics and Electronics](https://drive.google.com/drive/folders/0BxIiHHoXWwwtfk9wUkNETmM2SmdtNy10VHlla19Kb2RkckRfaG9RSkpSRVNPR0Z6X0Rka3M)
