@@ -1,5 +1,7 @@
 # Facey Computers Activities for Everyone
 
+https://docs.google.com/forms/d/e/1FAIpQLScKB3PJcSERcEq4aNZAdgXHZfVtfHazvPJrMu2H2vpzIx0pzQ/viewform
+
 ## Computer Setup
 
 * You may use your own computer and connect to the `bfhschoolguest` or `Comp Works` WiFi.
