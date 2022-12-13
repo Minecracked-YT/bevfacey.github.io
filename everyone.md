@@ -1,5 +1,11 @@
 # Facey Computers Activities for Everyone
 
+## Possible Projects
+
+* [VToonify](https://github.com/williamyang1991/VToonify)
+
+---
+
 ## Computer Setup
 
 * You may use your own computer and connect to the `bfhschoolguest` or `Comp Works` WiFi.
