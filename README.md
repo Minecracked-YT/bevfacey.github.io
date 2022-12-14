@@ -1,6 +1,5 @@
 # Bev Facey Computers
 
-* [Grade 12 Survey](https://www.surveymonkey.com/r/D8S6YNN)
 * [Canadian Space Agency: Space Brain Hack](https://www.asc-csa.gc.ca/eng/youth-educators/objective-moon/space-brain-hack.asp)
 * [TryHackMe Advent of Cyber](https://tryhackme.com/room/adventofcyber4)
 
