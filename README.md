@@ -10,6 +10,10 @@
 
 ---
 
+[Possible Projects](projects.md)
+
+---
+
 [Everyone](everyone.md)
 
 ---
