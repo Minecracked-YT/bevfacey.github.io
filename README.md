@@ -2,6 +2,7 @@
 
 * [Canadian Space Agency: Space Brain Hack](https://www.asc-csa.gc.ca/eng/youth-educators/objective-moon/space-brain-hack.asp)
 * [Skills Alberta IT Network Systems Administration](https://skillsalberta.com/overview/it-network-systems-administration/)
+* [AI Camp Scholarships](https://www.ai-camp.org/scholarship)
 
 ---
 
