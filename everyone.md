@@ -16,7 +16,6 @@
   * You may install programs or other operating systems if you prefer. Laptops will likely be wiped at the end of the semester.
 * You may also choose to connect and use additional monitors.
 * At the end of every class period, ensure that your work has been backed up online (e.g. Google Drive, Microsoft OneDrive, GitHub) in case of local file loss.
-* IT (CompWorks) students must set up a desktop computer with two monitors.
 
 ---
 
@@ -31,12 +30,11 @@
 
 ---
 
-## Impact of Computing Topics:
+## Impact of Computing (Issues and Ethics) Topics:
 
 1. Artificial Intelligence: Inequality, Job Loss, and Uniquely Human Abilities
 1. Utility, Security, and Privacy
-1. Why are devices, especially mobile devices, so compelling?
-1. Social Media: Engagement and the Attention Economy
+1. Why are devices, especially mobile devices, so compelling? Social Media: Engagement and the Attention Economy
 1. Freedoms, Rights, and Responsibilities, and [an AI "Bill of Rights"](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
 1. Misinformation and Disinformation: Filter Bubbles, Polarization, and the Death of Discourse
 1. [Training an AI Model](https://teachablemachine.withgoogle.com/train/image)
