@@ -7,6 +7,7 @@
 * [Python Smart Bulb (WiZ)](https://github.com/sbidy/pywizlight)
 * [NeoPixels with Raspberry Pi Pico W](https://blog.adafruit.com/2022/12/09/control-neopixel-leds-with-raspberry-pi-pico-w-adafruit-io-piday-adafruitio-diyprojectslab-raspberry_pi)
 * [xLights](https://xlights.org)
+* [Automated Plant Watering](https://www.instructables.com/DIY-SOIL-MOISTURE-SENSOR-CHEAP-YET-ACCURATE-/)
 * [Finch Robot](https://learn.birdbraintechnologies.com/finch/makecode/program/10-1)
 * [OpenRoberta Virtual Robots](https://lab.open-roberta.org)
 * [Virtual SPIKE Prime](https://www.cs2n.org/u/mp/badge_pages/2054)
