@@ -26,6 +26,7 @@
 * [Problem Solving, Python Programming, and Video Games (U of A)](https://www.ualberta.ca/admissions-programs/online-courses/programming-video-games.html)
 * [Introduction to Computer Science (Harvard)](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 * [Callysto Data Science](https://www.callysto.ca/distance-learning)
+* CodingBat Practice in [Python](https://codingbat.com/python) or [Java](https://codingbat.com/java)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
 * [Spacial VR Creator Toolkit](https://spatialxr.notion.site/Spatial-Creator-Toolkit-Beta-e0cb38dce13c40fabaa00128bf0a5573)
 * [Create Games with Unity and C#](https://drive.google.com/drive/folders/1jh7_3HPQ10E4SdaQAmSAZTgiSM9IBwCi)
