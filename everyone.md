@@ -1,9 +1,5 @@
 # Facey Computers Activities for Everyone
 
-## Possible Projects
-
-* [VToonify](https://github.com/williamyang1991/VToonify)
-
 ---
 
 ## Computer Setup
@@ -49,8 +45,3 @@
 1. Genetics: CRISPR, Discrimination, Targetted Therapies, Predictive Medicine, Bioweapons
 1. Environmental Issues: Large and Small Scale Effects and Possible Solutions
 
-## Online Resources and Books
-
-1. [LinkedIn Learning (with County Library account)](https://www.linkedin.com/learning-login/go/sclibrary)
-1. [Python](https://drive.google.com/drive/folders/0BxIiHHoXWwwtRFlGR3U1amJGVFU)
-1. [Robotics and Electronics](https://drive.google.com/drive/folders/0BxIiHHoXWwwtfk9wUkNETmM2SmdtNy10VHlla19Kb2RkckRfaG9RSkpSRVNPR0Z6X0Rka3M)

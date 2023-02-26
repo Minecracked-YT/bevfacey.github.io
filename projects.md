@@ -20,6 +20,7 @@
 * [Raspberry Pi Digital Signage](https://anthias.screenly.io)
 * [RetroPie Console Game Emulator](https://retropie.org.uk)
 * [Automate the Boring Stuff with Python - GUI](https://automatetheboringstuff.com/2e/chapter20)
+* [VToonify](https://github.com/williamyang1991/VToonify)
 
 ## Computing Science
 
@@ -30,3 +31,9 @@
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
 * [Spacial VR Creator Toolkit](https://spatialxr.notion.site/Spatial-Creator-Toolkit-Beta-e0cb38dce13c40fabaa00128bf0a5573)
 * [Create Games with Unity and C#](https://drive.google.com/drive/folders/1jh7_3HPQ10E4SdaQAmSAZTgiSM9IBwCi)
+
+## Online Resources and Books
+
+1. [LinkedIn Learning (with County Library account)](https://www.linkedin.com/learning-login/go/sclibrary)
+1. [Python](https://drive.google.com/drive/folders/0BxIiHHoXWwwtRFlGR3U1amJGVFU)
+1. [Robotics and Electronics](https://drive.google.com/drive/folders/0BxIiHHoXWwwtfk9wUkNETmM2SmdtNy10VHlla19Kb2RkckRfaG9RSkpSRVNPR0Z6X0Rka3M)
