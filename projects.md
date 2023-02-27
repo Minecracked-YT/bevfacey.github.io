@@ -4,7 +4,8 @@
 
 * [sc8pr Python Soccer](https://dmaccarthy.github.io/sc8pr)
 * [Phidgets](https://www.phidgets.com/education/start)
-* [Python Smart Bulb (WiZ)](https://github.com/sbidy/pywizlight)
+* [Double Robot](Documents/Double-Robotics-User-Manual.pdf)
+* [WiZ Smart Bulbs with Python](https://github.com/sbidy/pywizlight)
 * [NeoPixels with Raspberry Pi Pico W](https://blog.adafruit.com/2022/12/09/control-neopixel-leds-with-raspberry-pi-pico-w-adafruit-io-piday-adafruitio-diyprojectslab-raspberry_pi)
 * [xLights](https://xlights.org)
 * [Automated Plant Watering](https://www.instructables.com/DIY-SOIL-MOISTURE-SENSOR-CHEAP-YET-ACCURATE-/)
@@ -34,6 +35,6 @@
 
 ## Online Resources and Books
 
-1. [LinkedIn Learning (with County Library account)](https://www.linkedin.com/learning-login/go/sclibrary)
-1. [Python](https://drive.google.com/drive/folders/0BxIiHHoXWwwtRFlGR3U1amJGVFU)
-1. [Robotics and Electronics](https://drive.google.com/drive/folders/0BxIiHHoXWwwtfk9wUkNETmM2SmdtNy10VHlla19Kb2RkckRfaG9RSkpSRVNPR0Z6X0Rka3M)
+* [LinkedIn Learning (with County Library account)](https://www.linkedin.com/learning-login/go/sclibrary)
+* [Python](https://drive.google.com/drive/folders/0BxIiHHoXWwwtRFlGR3U1amJGVFU)
+* [Robotics and Electronics](https://drive.google.com/drive/folders/0BxIiHHoXWwwtfk9wUkNETmM2SmdtNy10VHlla19Kb2RkckRfaG9RSkpSRVNPR0Z6X0Rka3M)
