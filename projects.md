@@ -17,11 +17,12 @@
 ## Information Technology
 
 * [CyberStart Cybersecurity (join group: absolute-duties-visits)](https://play.cyberstart.com)
-* [Raspberry Pi Kiosk](https://www.raspberrypi.com/tutorials/how-to-use-a-raspberry-pi-in-kiosk-mode)
-* [Raspberry Pi Digital Signage](https://anthias.screenly.io)
+* [TryHackMe Cybersecurity](https://tryhackme.com/)
 * [RetroPie Console Game Emulator](https://retropie.org.uk)
 * [Automate the Boring Stuff with Python - GUI](https://automatetheboringstuff.com/2e/chapter20)
 * [VToonify](https://github.com/williamyang1991/VToonify)
+* [Raspberry Pi Kiosk](https://www.raspberrypi.com/tutorials/how-to-use-a-raspberry-pi-in-kiosk-mode)
+* [Raspberry Pi Digital Signage](https://anthias.screenly.io)
 
 ## Computing Science
 
