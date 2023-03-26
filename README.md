@@ -1,54 +1,30 @@
 # Bev Facey Computers
 
-* [Canadian Space Agency: Space Brain Hack](https://www.asc-csa.gc.ca/eng/youth-educators/objective-moon/space-brain-hack.asp)
-* [Skills Alberta IT Network Systems Administration](https://skillsalberta.com/overview/it-network-systems-administration/)
-* [AI Camp Scholarships](https://www.ai-camp.org/scholarship)
+* [Programs of Study documents](https://github.com/BevFacey/bevfacey.github.io/tree/main/ProgramsOfStudy)
+* [Information for Everyone](everyone.md)
+* [Possible Projects](projects.md)
 
----
+## Computing Science
 
-[Programs of Study](https://github.com/BevFacey/bevfacey.github.io/tree/main/ProgramsOfStudy)
+* [Computing Science 10](cs10.md)
+* [Computing Science 20](cs20.md)
+* [Computing Science 30](cs30.md)
+* [AP Computer Science Principles](apcsp.md)
+* [AP Computer Science A](apsca.md)
 
----
+## Robotics
 
-[Possible Projects](projects.md)
+* [Robotics 10](r10.md)
+* [Robotics 20](r20.md)
+* [Robotics 30](r30.md)
 
----
+## Information Technology (Computer Works)
 
-[Everyone](everyone.md)
+* [Information Technology 10](it10.md)
+* [Information Technology 20](it20.md)
+* [Information Technology 30](it30.md)
 
----
-
-[Computing Science 10](cs10.md)
-
-[Information Technology (Computer Works) 10](it10.md)
-
-[Robotics 10](r10.md)
-
----
-
-[Computing Science 20](cs20.md)
-
-[Information Technology (Computer Works) 20](it20.md)
-
-[Robotics 20](r20.md)
-
----
-
-[Computing Science 30](cs30.md)
-
-[Information Technology (Computer Works) 30](it30.md)
-
-[Robotics 30](r30.md)
-
----
-
-[AP Computer Science Principles](apcsp.md)
-
-[AP Computer Science A](apsca.md)
-
----
-
-## Other
+## Information Processing
 
 * [INF1030: Word Processing 1](INF1030)
 * [INF1060: Spreadsheet 1](INF1060)
