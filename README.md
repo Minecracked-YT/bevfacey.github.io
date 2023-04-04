@@ -26,10 +26,10 @@
 
 ## Information Processing
 
+* [INF2020: Keyboarding](INF2020.md) and [INF2020: Keyboarding Assignments](INF2020)
 * [INF1030: Word Processing 1](INF1030)
 * [INF1060: Spreadsheet 1](INF1060)
 * [INF1070: Digital Presentation](INF1070)
-* [INF2020: Keyboarding](INF2020)
 * [INF2050: Word Processing 2](INF2050)
 * [INF2080: Spreadsheet 2](INF2080)
 * [Other courses](https://moodlehub.ca/course/index.php?categoryid=15)
