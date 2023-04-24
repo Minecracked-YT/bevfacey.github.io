@@ -36,6 +36,6 @@
 
 ## Online Resources and Books
 
-* [LinkedIn Learning (with County Library account)](https://www.linkedin.com/learning-login/go/sclibrary)
+* [LinkedIn Learning](https://www.linkedin.com/learning-login/go/sclibrary) with [Strathcona County Library account](https://sclibrary.ca)
 * [Python](https://drive.google.com/drive/folders/0BxIiHHoXWwwtRFlGR3U1amJGVFU)
 * [Robotics and Electronics](https://drive.google.com/drive/folders/0BxIiHHoXWwwtfk9wUkNETmM2SmdtNy10VHlla19Kb2RkckRfaG9RSkpSRVNPR0Z6X0Rka3M)
