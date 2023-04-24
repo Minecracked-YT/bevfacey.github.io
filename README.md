@@ -3,6 +3,7 @@
 * [Programs of Study documents](https://github.com/BevFacey/bevfacey.github.io/tree/main/ProgramsOfStudy)
 * [Information for Everyone](everyone.md)
 * [Possible Projects](projects.md)
+* [Course Progressions](progressions.md)
 
 ## Computing Science
 
