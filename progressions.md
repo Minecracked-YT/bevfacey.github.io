@@ -12,5 +12,7 @@
 
 ![NET Progression](/images/NET.png)
 
-## Information Processing
+---
+
+![Course Progressions](/images/course_progressions.png)
 
