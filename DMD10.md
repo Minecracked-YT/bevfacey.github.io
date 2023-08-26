@@ -20,7 +20,7 @@
 * Students are introduced to basic layout and design techniques as well as to various print reproduction processes using a positive or negative master such as digital, offset, screen, vinyl plotting, wide format and laser cutting.
 * Prerequisite: ECOM1005: Visual Composition
 
-[COM1105: Audio/Vido](COM1105.md)
+[COM1105: Audio/Video](COM1105.md)
 
 * Students acquire basic production skills, including planning, recording and editing, through the production of simple audio and/or video projects using basic equipment and techniques.
 * Prerequisite: COM1005: Visual Composition
@@ -34,6 +34,7 @@
 
 * Students explore the elements of e-learning within a learning management system. They explore the appropriate use of tools and skills required to successfully implement an e-learning plan and evaluate their readiness to form educational relationships that will cross time and distance.
 * Prerequisite: None
+* Can be completed via [MoodleHub](https://moodlehub.ca/course/view.php?id=346)
 
 [COM1910: COM Project A](COM1910.md)
 
