@@ -25,6 +25,12 @@
 * [Information Technology 20](it20.md)
 * [Information Technology 30](it30.md)
 
+## Digital Media and Design
+
+* [Digital Media and Design 10](DMD10.md)
+* [Digital Media and Design 20](DMD20.md)
+* [Digital Media and Design 30](DMD30.md)
+
 ## Information Processing
 
 * [INF2020: Keyboarding](INF2020.md) and [INF2020: Keyboarding Assignments](INF2020)
