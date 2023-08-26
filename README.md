@@ -1,4 +1,4 @@
-# Bev Facey Computers
+# Computers Classes
 
 * [Programs of Study documents](https://github.com/BevFacey/bevfacey.github.io/tree/main/ProgramsOfStudy)
 * [Information for Everyone](everyone.md)
@@ -34,7 +34,3 @@
 * [INF2050: Word Processing 2](INF2050)
 * [INF2080: Spreadsheet 2](INF2080)
 * [Other courses](https://moodlehub.ca/course/index.php?categoryid=15)
-
----
-
-*[bev.facey.rocks](http://bev.facey.rocks) or [bevfacey.github.io](http://bevfacey.github.io)*
