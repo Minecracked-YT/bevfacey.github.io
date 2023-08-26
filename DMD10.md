@@ -7,7 +7,7 @@
 
 [COM1025: Typography](COM1025.md)
 
-* If there is no type on the page, it isn’t graphic design, it is fine art. Students learn about the power of typography and its uses in today’s world.
+* If there is no type on the page, it isn't graphic design, it is fine art. Students learn about the power of typography and its uses in today's world.
 * Prerequisite: ECOM1005: Visual Composition
 
 [COM1035: Graphic Tools](COM1035.md)
