@@ -44,4 +44,3 @@
 1. Artificial Intelligence and Machine Learning: Potentials and Pitfalls, Success Parameters and Grey Goo
 1. Genetics: CRISPR, Discrimination, Targetted Therapies, Predictive Medicine, Bioweapons
 1. Environmental Issues: Large and Small Scale Effects and Possible Solutions
-
