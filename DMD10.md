@@ -5,6 +5,8 @@
 * Students learn to employ fundamental elements and principles of design for various media and gain a strong foundational multidisciplinary experience in preparation for other Communication Technology courses.
 * Prerequisite: None
 
+## Graphic Design
+
 [COM1025: Typography](COM1025.md)
 
 * If there is no type on the page, it isn't graphic design, it is fine art. Students learn about the power of typography and its uses in today's world.
@@ -20,6 +22,8 @@
 * Students are introduced to basic layout and design techniques as well as to various print reproduction processes using a positive or negative master such as digital, offset, screen, vinyl plotting, wide format and laser cutting.
 * Prerequisite: ECOM1005: Visual Composition
 
+## Video Production
+
 [COM1105: Audio/Video](COM1105.md)
 
 * Students acquire basic production skills, including planning, recording and editing, through the production of simple audio and/or video projects using basic equipment and techniques.
@@ -30,16 +34,12 @@
 * Students are introduced to a variety of animation techniques and produce a simple animation; the focus is on basic skills, including planning, keyframing, stage set-up and production, used to create a moving picture.
 * Prerequisite: COM1005: Visual Composition
 
-[COM1255: E-Learning & Learning Management Systems](COM1255.md)
-
-* Students explore the elements of e-learning within a learning management system. They explore the appropriate use of tools and skills required to successfully implement an e-learning plan and evaluate their readiness to form educational relationships that will cross time and distance.
-* Prerequisite: None
-* Can be completed via [MoodleHub](https://moodlehub.ca/course/view.php?id=346)
-
 [COM1910: COM Project A](COM1910.md)
 
 * Students develop project design and management skills to extend and enhance competencies and skills in other CTS courses through contexts that are personally relevant.
 * Prerequisite: None
+
+## 3D and 2D Design
 
 [DES1010: Sketch, Draw & Model](DES1010.md)
 
@@ -61,7 +61,30 @@
 * Students develop skills and techniques for 3-D design, by using tools, materials and processes common to 3-D design to complete a variety of project activities.
 * Prerequisite: DES1020: The Design Process
 
+## Other
+
+[COM1910: COM Project A](COM1910.md)
+
+* Students develop project design and management skills to extend and enhance competencies and skills in other CTS courses through contexts that are personally relevant.
+* Prerequisite: None
+
 [DES1910: DES Project A](DES1910.md)
 
 * Students develop project design and management skills to extend and enhance competencies and skills in other CTS courses through contexts that are personally relevant.
 * Prerequisite: None
+
+[COM1255: E-Learning & Learning Management Systems](COM1255.md)
+
+* Students explore the elements of e-learning within a learning management system. They explore the appropriate use of tools and skills required to successfully implement an e-learning plan and evaluate their readiness to form educational relationships that will cross time and distance.
+* Prerequisite: None
+* Can be completed via [MoodleHub](https://moodlehub.ca/course/view.php?id=346)
+
+## Information Processing
+
+* [INF2020: Keyboarding](INF2020.md) and [INF2020: Keyboarding Assignments](INF2020)
+* [INF1030: Word Processing 1](INF1030)
+* [INF1060: Spreadsheet 1](INF1060)
+* [INF1070: Digital Presentation](INF1070)
+* [INF2050: Word Processing 2](INF2050)
+* [INF2080: Spreadsheet 2](INF2080)
+* [Other courses](https://moodlehub.ca/course/index.php?categoryid=15)
