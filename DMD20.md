@@ -19,6 +19,11 @@ COM2125: AV Postproduction 1
 
 ## Graphic Design
 
+COM2025: Electronic Layout & Publishing 1
+
+* Students develop skills and practical working knowledge of electronic publishing computer hardware and software and create well-designed documents and publications using desktop publishing technology.
+* Prerequisite: COM1005: Visual Composition
+
 COM2035: Raster Graphics 1
 
 * A raster format is commonly used in full colour images/graphics and photographs by using a data structure representing a generally rectangular grid of pixels or points of colour. In this course, students are introduced to the fundamental skills of raster graphics and their application.
