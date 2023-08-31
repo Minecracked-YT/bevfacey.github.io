@@ -5,6 +5,18 @@
 * Students learn to employ fundamental elements and principles of design for various media and gain a strong foundational multidisciplinary experience in preparation for other Communication Technology courses.
 * Prerequisite: None
 
+## Video Production
+
+[COM1105: Audio/Video](COM1105.md)
+
+* Students acquire basic production skills, including planning, recording and editing, through the production of simple audio and/or video projects using basic equipment and techniques.
+* Prerequisite: COM1005: Visual Composition
+
+[COM1145: Animation 1](COM1145.md)
+
+* Students are introduced to a variety of animation techniques and produce a simple animation; the focus is on basic skills, including planning, keyframing, stage set-up and production, used to create a moving picture.
+* Prerequisite: COM1005: Visual Composition
+
 ## Graphic Design
 
 [COM1025: Typography](COM1025.md)
@@ -21,23 +33,6 @@
 
 * Students are introduced to basic layout and design techniques as well as to various print reproduction processes using a positive or negative master such as digital, offset, screen, vinyl plotting, wide format and laser cutting.
 * Prerequisite: ECOM1005: Visual Composition
-
-## Video Production
-
-[COM1105: Audio/Video](COM1105.md)
-
-* Students acquire basic production skills, including planning, recording and editing, through the production of simple audio and/or video projects using basic equipment and techniques.
-* Prerequisite: COM1005: Visual Composition
-
-[COM1145: Animation 1](COM1145.md)
-
-* Students are introduced to a variety of animation techniques and produce a simple animation; the focus is on basic skills, including planning, keyframing, stage set-up and production, used to create a moving picture.
-* Prerequisite: COM1005: Visual Composition
-
-[COM1910: COM Project A](COM1910.md)
-
-* Students develop project design and management skills to extend and enhance competencies and skills in other CTS courses through contexts that are personally relevant.
-* Prerequisite: None
 
 ## 3D and 2D Design
 
