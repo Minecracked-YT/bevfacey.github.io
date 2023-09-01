@@ -68,7 +68,7 @@
 * Students develop project design and management skills to extend and enhance competencies and skills in other CTS courses through contexts that are personally relevant.
 * Prerequisite: None
 
-[COM1255: E-Learning & Learning Management Systems](COM1255.md)
+COM1255: E-Learning & Learning Management Systems
 
 * Students explore the elements of e-learning within a learning management system. They explore the appropriate use of tools and skills required to successfully implement an e-learning plan and evaluate their readiness to form educational relationships that will cross time and distance.
 * Prerequisite: None
