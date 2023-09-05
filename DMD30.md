@@ -34,10 +34,10 @@ COM3005: Creative Writing
 
 ## Graphic Design
 
-COM3025: Electronic Layout & Publishing 2
+[COM3025: Electronic Layout & Publishing 2](COM3025.md)
 
 * Students build on the knowledge and practice gained in Electronic Layout & Publishing 1 and continue to work with desktop publishing software and hardware. Students expand their publication design, layout and print production skills by planning and creating customized, professional, multipage documents for a client.
-* Prerequisite: COM2025: Electronic Layout & Publishing 1
+* Prerequisite: [COM2025: Electronic Layout & Publishing 1](COM2025.md)
 
 COM3035: Raster Graphics 2
 
