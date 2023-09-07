@@ -40,3 +40,7 @@
 * [INF2050: Word Processing 2](INF2050)
 * [INF2080: Spreadsheet 2](INF2080)
 * [Other courses](https://moodlehub.ca/course/index.php?categoryid=15)
+
+## Submitting to Mr. Hay
+
+Use [this link](https://docs.google.com/forms/d/e/1FAIpQLScIZrjRTpD64dPnaIdrAFdmINwL3YrzpxbgST33zdBQeFD6ig/viewform)
