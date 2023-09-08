@@ -43,4 +43,4 @@
 
 ## Submitting to Mr. Hay
 
-Use [this link](https://docs.google.com/forms/d/e/1FAIpQLScIZrjRTpD64dPnaIdrAFdmINwL3YrzpxbgST33zdBQeFD6ig/viewform)
+* Use [this link](https://docs.google.com/forms/d/e/1FAIpQLScIZrjRTpD64dPnaIdrAFdmINwL3YrzpxbgST33zdBQeFD6ig/viewform)
