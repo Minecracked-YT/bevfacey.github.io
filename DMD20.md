@@ -19,7 +19,7 @@ COM2125: AV Postproduction 1
 
 ## Graphic Design
 
-COM2025: Electronic Layout & Publishing 1
+[COM2025: Electronic Layout & Publishing 1](COM2025.md)
 
 * Students develop skills and practical working knowledge of electronic publishing computer hardware and software and create well-designed documents and publications using desktop publishing technology.
 * Prerequisite: COM1005: Visual Composition
