@@ -37,7 +37,7 @@ COM2045: Vector Graphics 1
 [COM2155: Design – Brand Identity](COM2155.md)
 
 * Students are introduced to the value and importance of branding and the process of creating and establishing strong brands. Students work through the process of creating branding from planning, to the creation of a new, unique brand, through to creating touch points.
-* Prerequisite: COM1035: Graphics Tools
+* Prerequisite: [COM1035: Graphics Tools](COM1035.md)
 
 COM2165: Printing 2
 
