@@ -27,7 +27,7 @@ COM2125: AV Postproduction 1
 COM2035: Raster Graphics 1
 
 * A raster format is commonly used in full colour images/graphics and photographs by using a data structure representing a generally rectangular grid of pixels or points of colour. In this course, students are introduced to the fundamental skills of raster graphics and their application.
-* Prerequisite: COM1035: Graphics Tools
+* Prerequisite: [COM1035: Graphics Tools](COM1035.md)
 
 COM2045: Vector Graphics 1
 
