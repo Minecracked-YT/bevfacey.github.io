@@ -34,7 +34,7 @@ COM2045: Vector Graphics 1
 * Vector graphics are commonly used in graphic design, page layout, typography, logos, sharp-edged artistic illustrations, technical illustrations, diagramming and flowcharting. In this course, students use vector editing software to create basic vector graphics.
 * Prerequisite: COM1035: Graphics Tools
 
-COM2155: Design – Brand Identity
+[COM2155: Design – Brand Identity](COM2155.md)
 
 * Students are introduced to the value and importance of branding and the process of creating and establishing strong brands. Students work through the process of creating branding from planning, to the creation of a new, unique brand, through to creating touch points.
 * Prerequisite: COM1035: Graphics Tools
