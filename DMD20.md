@@ -12,7 +12,7 @@
 * Students expand on basic audio and/or video production techniques with an emphasis on following a production plan, capturing content to edit and ensuring that continuity is maintained. Students understand that production is stage two in the audio/video process.
 * Prerequisite: [COM1105: Audio/Video](COM1105.md)
 
-COM2125: AV Postproduction 1
+[COM2125: AV Postproduction 1](COM2125.md)
 
 * Description: Students expand on basic audio and/or video production techniques with an emphasis on following a plan, capturing content to edit and ensuring that continuity is maintained. Students understand that postproduction is stage three in the audio and video process.
 * Prerequisite: [COM1105: Audio/Video](COM1105.md)
