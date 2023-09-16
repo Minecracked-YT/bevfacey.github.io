@@ -5,17 +5,17 @@
 [COM2105: AV Preproduction 1](COM2105.md)
 
 * Students examine the value and need for audio and video preproduction, and explore strategies used to plan an audio and/or a video project using a variety of techniques. Students understand that preproduction is stage one in the audio and video process.
-* Prerequisite: COM1105: Audio/Video
+* Prerequisite: [COM1105: Audio/Video](COM1105.md)
 
-COM2115: AV Production 1
+[COM2115: AV Production 1](COM2115.md)
 
 * Students expand on basic audio and/or video production techniques with an emphasis on following a production plan, capturing content to edit and ensuring that continuity is maintained. Students understand that production is stage two in the audio/video process.
-* Prerequisite: COM1105: Audio/Video
+* Prerequisite: [COM1105: Audio/Video](COM1105.md)
 
 COM2125: AV Postproduction 1
 
 * Description: Students expand on basic audio and/or video production techniques with an emphasis on following a plan, capturing content to edit and ensuring that continuity is maintained. Students understand that postproduction is stage three in the audio and video process.
-* Prerequisite: COM1105: Audio/Video
+* Prerequisite: [COM1105: Audio/Video](COM1105.md)
 
 ## Graphic Design
 
