@@ -2,7 +2,7 @@
 
 ## Audio/Video Production
 
-COM2105: AV Preproduction 1
+[COM2105: AV Preproduction 1](COM2105.md)
 
 * Students examine the value and need for audio and video preproduction, and explore strategies used to plan an audio and/or a video project using a variety of techniques. Students understand that preproduction is stage one in the audio and video process.
 * Prerequisite: COM1105: Audio/Video
