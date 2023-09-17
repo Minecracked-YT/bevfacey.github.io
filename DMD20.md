@@ -24,12 +24,12 @@
 * Students develop skills and practical working knowledge of electronic publishing computer hardware and software and create well-designed documents and publications using desktop publishing technology.
 * Prerequisite: COM1005: Visual Composition
 
-COM2035: Raster Graphics 1
+[COM2035: Raster Graphics 1](COM2035.md)
 
 * A raster format is commonly used in full colour images/graphics and photographs by using a data structure representing a generally rectangular grid of pixels or points of colour. In this course, students are introduced to the fundamental skills of raster graphics and their application.
 * Prerequisite: [COM1035: Graphics Tools](COM1035.md)
 
-COM2045: Vector Graphics 1
+[COM2045: Vector Graphics 1](COM2045.md)
 
 * Vector graphics are commonly used in graphic design, page layout, typography, logos, sharp-edged artistic illustrations, technical illustrations, diagramming and flowcharting. In this course, students use vector editing software to create basic vector graphics.
 * Prerequisite: COM1035: Graphics Tools
