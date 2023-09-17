@@ -39,7 +39,7 @@
 * Students are introduced to the value and importance of branding and the process of creating and establishing strong brands. Students work through the process of creating branding from planning, to the creation of a new, unique brand, through to creating touch points.
 * Prerequisite: [COM1035: Graphics Tools](COM1035.md)
 
-COM2165: Printing 2
+[COM2165: Printing 2](COM2165.md)
 
 * Students develop printing skills and create a finished product that demonstrates an ability to reproduce multicolour graphics for use on selected media; e.g., banners, signs, T-shirts, uniforms, posters, ceramics, plastics, decals.
 * Prerequisite: COM1165: Printing 1
