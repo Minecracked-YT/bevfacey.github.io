@@ -54,7 +54,6 @@ COM3155: Design – Advertising Campaigns
 * Students develop advertising skills through projects and activities in conceptualization, campaign development and copy writing. The delivery and presentation of an ad campaign is also a major focus. Students enhance their abilities to integrate various media for the purpose of producing a multimedia message for a target audience.
 * Prerequisite: COM2155: Design – Brand Identity
 
-
 ## Web Design
 
 COM3055: Rich Media – Basics
