@@ -39,15 +39,15 @@ COM3005: Creative Writing
 * Students build on the knowledge and practice gained in Electronic Layout & Publishing 1 and continue to work with desktop publishing software and hardware. Students expand their publication design, layout and print production skills by planning and creating customized, professional, multipage documents for a client.
 * Prerequisite: [COM2025: Electronic Layout & Publishing 1](COM2025.md)
 
-COM3035: Raster Graphics 2
+[COM3035: Raster Graphics 2](COM3035.md)
 
 * Students build on the knowledge and skills acquired in Raster Graphics 1 by using raster editing software to create advanced raster graphics.
-* Prerequisite: COM2035: Raster Graphics 1
+* Prerequisite: [COM2035: Raster Graphics 1](COM2035.md)
 
-COM3045: Vector Graphics 2
+[COM3045: Vector Graphics 2](COM3045.md)
 
 * Students build on knowledge and skills acquired in Vector Graphics 1 by using vector editing software to create advanced vector graphics.
-* Prerequisite: COM2045: Vector Graphics 1
+* Prerequisite: [COM2045: Vector Graphics 1](COM2045.md)
 
 COM3155: Design – Advertising Campaigns
 
