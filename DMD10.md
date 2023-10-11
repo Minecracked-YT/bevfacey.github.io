@@ -61,6 +61,16 @@
 * Students develop skills and techniques for 3-D design, by using tools, materials and processes common to 3-D design to complete a variety of project activities.
 * Prerequisite: [DES1020: The Design Process](DES1020.md)
 
+[DES1050: CAD 1](DES1050.md)
+
+* Students develop basic knowledge and skills in computer-aided design (CAD).
+* Prerequisite: None
+
+[DES1060: Technical Design & Drafting 1](DES1060.md)
+
+* Students develop basic knowledge, skills and techniques to draft drawings for visualizing and illustrating simple design problems.
+* Prerequisite: None
+
 ## Other
 
 [COM1910: COM Project A](COM1910.md)
