@@ -22,7 +22,7 @@
 [COM2025: Electronic Layout & Publishing 1](COM2025.md)
 
 * Students develop skills and practical working knowledge of electronic publishing computer hardware and software and create well-designed documents and publications using desktop publishing technology.
-* Prerequisite: COM1005: Visual Composition
+* Prerequisite: [COM1005: Visual Composition](COM1005.md)
 
 [COM2035: Raster Graphics 1](COM2035.md)
 
@@ -42,19 +42,19 @@
 [COM2165: Printing 2](COM2165.md)
 
 * Students develop printing skills and create a finished product that demonstrates an ability to reproduce multicolour graphics for use on selected media; e.g., banners, signs, T-shirts, uniforms, posters, ceramics, plastics, decals.
-* Prerequisite: COM1165: Printing 1
+* Prerequisite: [COM1165: Printing 1](COM1165.md)
 
 ## Web Design
 
 COM1055: Web Design 1
 
 * Description: Students research the characteristics of effective Web page(s) and learn World Wide Web Consortium (W3C) conventions and accessibility concerns to construct a simple Web page.
-* Prerequisite: COM1005: Visual Composition
+* Prerequisite: [COM1005: Visual Composition](COM1005.md)
 
 COM2055: Web Design 2
 
 * Students learn intermediate coding and software applications to produce a Web site.
-* Prerequisite: COM1055: Web Design 1
+* Prerequisite: [COM1055: Web Design 1](COM1055.md)
 
 [CSE1210: Client-side Scripting 1](CSE1210.md)
 
@@ -69,29 +69,29 @@ CSE1220: Client-side Scripting 2
 CSE2210: Client-side Scripting 3
 
 * Students add to their understanding of Internet scripting by employing procedural programming techniques and fundamental data structures to create both static and dynamic client-side sites. Students learn how to analyze, modify, write and debug algorithms and scripts that use subprograms such as functions and data structures such as arrays.
-* Prerequisites: CSE1220: Client-side Scripting 2, [CSE1120: Structured Programming 2](CSE1120.md)
+* Prerequisites: [CSE1220: Client-side Scripting 2](CSE1220.md), [CSE1120: Structured Programming 2](CSE1120.md)
 
 ## 3D and 2D Design and Animation
 
 COM2145: Animation 2
 
 * Students explore the evolution of various animation styles and techniques (traditional and digital). Students apply planning, idea development and storytelling techniques to create an effective animation.
-* Prerequisite: COM1145: Animation 1
+* Prerequisite: [COM1145: Animation 1](COM1145.md)
 
 COM2175: Interactive Presentation
 
 * Students refine presentation skills and develop and author interactive multimedia presentations using advanced presentation software tools and techniques.
-* Prerequisite: COM1005: Visual Composition
+* Prerequisite: [COM1005: Visual Composition](COM1005.md)
 
 DES2035: 2-D Design 2
 
 * Students continue to develop skills and techniques for 2-D design by using tools, materials and processes common to 2-D design to complete a variety of project activities.
-* Prerequisite: DES1030: 2-D Design 1
+* Prerequisite: [DES1030: 2-D Design 1](DES1030.md)
 
 DES2045: 3-D Design 2
 
 * Students continue to develop skills and techniques for 3-D design by using tools, materials and processes common to 3-D design to complete a variety of project activities.
-* Prerequisite: DES1040: 3-D Design 1
+* Prerequisite: [DES1040: 3-D Design 1](DES1040.md)
 
 DES2060: Evolution of Design
 
@@ -103,12 +103,12 @@ Prerequisite: None
 COM1015: Media
 
 * Students discover the impact of the media and develop fundamental skills to relay a message effectively using various forms of media; e.g., photography, print, Web and audio or video production.
-* Prerequisite: COM1005: Visual Composition
+* Prerequisite: [COM1005: Visual Composition](COM1005.md)
 
 COM2015: Media Impact
 
 * Students explore different media forms and examine their impact on personal, community and national interests. Using various media, students plan, create and present a simple message.
-* Prerequisite: COM1005: Visual Composition
+* Prerequisite: [COM1005: Visual Composition](COM1005.md)
 
 COM2910: COM Project B
 
