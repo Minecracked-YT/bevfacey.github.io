@@ -90,10 +90,20 @@ DES3035: 2-D Design 3
 
 DES3045: 3-D Design 3
 
-* Description: Students apply theories, skills and techniques appropriate to 3-D design. Students will deal with such aspects as shaping, massing, proportion, scale, contrast, colour, texture and finish within the context of complex 3-D design projects. Students are introduced to cultural, symbolic and human factors, principles and ergonomic considerations.
+* Students apply theories, skills and techniques appropriate to 3-D design. Students will deal with such aspects as shaping, massing, proportion, scale, contrast, colour, texture and finish within the context of complex 3-D design projects. Students are introduced to cultural, symbolic and human factors, principles and ergonomic considerations.
 * Prerequisite: [DES2045: 3-D Design 2](DES2045.md)
 
-DES3170: Future of Design
+[DES3145: Modelling – Real](DES3145.md)
+
+* Students use the principles and techniques of physical modelling. They will develop the ability to construct models using a variety or materials, equipment and techniques from working drawings.
+* Prerequisite: DES1010: Sketch, Draw & Model
+
+[DES3165: Presentation](DES3165.md)
+
+* Students apply rendering techniques to line drawings (base or developed), concentrating on light, colour and various media; e.g., coloured pencils, marker pens, water colours, computer rendering. Presentation techniques are used to compose high quality images to communicate a design solution.
+* Prerequisite: None
+
+[DES3170: Future of Design](DES3170.md)
 
 * Students explore new possibilities in design, including the role of the designer and the challenges that are faced by designers.
 * Prerequisite: None
