@@ -20,6 +20,11 @@
 * Students are introduced to a variety of animation techniques and produce a simple animation; the focus is on basic skills, including planning, keyframing, stage set-up and production, used to create a moving picture.
 * Prerequisite: [COM1005: Visual Composition](COM1005.md)
 
+[CSE1110: Structured Programming 1](CSE1110.md)
+
+* Students are introduced to a general programming environment in which they write simple structured algorithms and programs that input, process and output data, use some of the more basic operators and data types, and follow a sequential flow of control.
+* Prerequisite: None
+
 [DES1910: DES Project A](DES1910.md)
 
 * Students develop project design and management skills to extend and enhance competencies and skills in other CTS courses through contexts that are personally relevant.
