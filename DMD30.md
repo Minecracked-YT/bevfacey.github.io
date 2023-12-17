@@ -49,7 +49,7 @@ COM3005: Creative Writing
 * Students build on knowledge and skills acquired in Vector Graphics 1 by using vector editing software to create advanced vector graphics.
 * Prerequisite: [COM2045: Vector Graphics 1](COM2045.md)
 
-COM3155: Design – Advertising Campaigns
+[COM3155: Design – Advertising Campaigns](COM3155.md)
 
 * Students develop advertising skills through projects and activities in conceptualization, campaign development and copy writing. The delivery and presentation of an ad campaign is also a major focus. Students enhance their abilities to integrate various media for the purpose of producing a multimedia message for a target audience.
 * Prerequisite: [COM2155: Design – Brand Identity](COM2155.md)
