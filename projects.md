@@ -33,6 +33,10 @@
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
 * [Spacial VR Creator Toolkit](https://spatialxr.notion.site/Spatial-Creator-Toolkit-Beta-e0cb38dce13c40fabaa00128bf0a5573)
 * [Create Games with Unity and C#](https://drive.google.com/drive/folders/1jh7_3HPQ10E4SdaQAmSAZTgiSM9IBwCi)
+* Game assets:
+    * https://gameassetsfree.com/assets/
+    * https://itch.io/game-assets/free/tag-unreal-engine
+    * https://drive.google.com/drive/folders/1ifYcKZW6LmU1NhAUnHmjmwMomp6nUiAI
 
 ## Online Resources and Books
 
